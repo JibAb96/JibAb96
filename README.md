@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JibAb96
 - 👀 I’m interested in becoming a Software Developer
-- 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on Responsive Web Design
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Full Stack Websites
 - 📫 Reach me here or on email 
 
 <!---
